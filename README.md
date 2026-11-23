@@ -1,6 +1,20 @@
 # 💫 About Me:
-👋 Hi, I’m Kolluru Likith Kumar, a B.Tech Computer Science and Engineering student at KL University, specializing in AI-Driven Language Technologies.<br>I enjoy building full-stack applications and practical AI systems across:<br><br>* Machine Learning & NLP<br><br><br>* LLMs & RAG systems<br><br><br>* Full-stack web development<br><br><br>* Cloud & containerization (AWS, Docker)<br><br><br><br>I like connecting machine learning with full-stack engineering to turn ideas into working applications.<br>My work includes a freelance marketplace platform, TripMate (an AI-enabled travel and tourism platform), a RAG-based multimodal tech support assistant, and ongoing research on AI-driven predictive maintenance in smart manufacturing.<br><br>### 🔍 Interests<br><br>* Large Language Models & Retrieval-Augmented Generation (RAG)<br><br><br>* Integrating AI/ML into full-stack applications<br><br><br>* Predictive analytics & time-series / anomaly detection<br><br><br><br>I’m also an AWS Certified Cloud Practitioner (CLF-02) and Oracle Certified Data Science Professional, focused on writing clean code, solving data structure problems, and building useful software.
+👋 Hi, I’m Kolluru Likith Kumar, a B.Tech Computer Science and Engineering student at KL University, specializing in AI-Driven Language Technologies.
+I enjoy building full-stack applications and practical AI systems across:
+* Machine Learning & NLP
+* LLMs & RAG systems
+* Full-stack web development
+* Cloud & containerization (AWS, Docker)
 
+I like connecting machine learning with full-stack engineering to turn ideas into working applications.
+My work includes a freelance marketplace platform, TripMate (an AI-enabled travel and tourism platform), a RAG-based multimodal tech support assistant, and ongoing research on AI-driven predictive maintenance in smart manufacturing.
+
+### 🔍 Interests
+* Large Language Models & Retrieval-Augmented Generation (RAG)
+* Integrating AI/ML into full-stack applications
+* Predictive analytics & time-series / anomaly detection
+
+I’m also an AWS Certified Cloud Practitioner (CLF-02) and Oracle Certified Data Science Professional, focused on writing clean code, solving data structure problems, and building useful software.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/likith_kolluru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kollurulikithkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/likithkumar0705) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2300031752cseird@gmail.com) 
